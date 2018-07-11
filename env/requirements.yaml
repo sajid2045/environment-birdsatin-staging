@@ -10,3 +10,6 @@ dependencies:
 - name: jx-boot-prometheus-1
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: jx-boot-web-1
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 1.0.0
